@@ -1,31 +1,20 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi, I'm Nicolas 👋
 
-###
+**Software Engineer** from Bogotá, Colombia 🇨🇴  
+I combine software development with hands-on technical support, helping international clients in English solve real-world software and hardware issues.
 
-<h2 align="left">My name is Nicolas I am from Colombia</h2>
+## 🚀 About me
+- 💻 Built web apps with **React** and REST APIs with **.NET (C#)**
+- ⚙️ Worked with **Azure DevOps** to manage configurations and environments
+- 🎧 Technical Support Consultant: troubleshooting, remote sessions and clear technical documentation
+- 🌎 Bilingual: English / Spanish
 
-###
+## 📊 Currently learning
+**Data Engineering**: Python, SQL, PostgreSQL and data pipelines.  
+My first data project is on the way. Stay tuned!
 
-<h3 align="left">FrontEnd Developer</h3>
+## 🛠️ Tech stack
+![Skills](https://skillicons.dev/icons?i=react,js,cs,dotnet,azure,git,py,postgres,html,css,php,mysql)
 
-###
-
-<p align="left">💬 Ask me about Html, Css, Javascript<br><br>📫 How to reach me nicolas250523@gmail.com</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-</div>
-
-
+## 🤝 Let's connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolas%20Martinez-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-martinezc)
